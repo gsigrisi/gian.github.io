@@ -2,6 +2,7 @@
 .hugo_build.lock
 .DS_Store
 
+static/
 resources/
 .github/
 archetypes/
