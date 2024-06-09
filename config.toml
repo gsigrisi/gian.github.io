@@ -29,7 +29,7 @@ paginate = 8
     name = "Github"
     url = "https://github.com/pinguozzo"
   [[params.social]]
-    icon = "twitter"
-    name = "Twitter"
+    icon = "x"
+    name = "X"
     url = "https://x.com/pinguozzo"
 
