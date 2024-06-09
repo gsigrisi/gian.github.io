@@ -9,7 +9,7 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 git add .
 
 # Commit changes.
-msg=":rocket: Deploying website `date '+%Y-%m-%d %H:%M:%S'`"
+msg="Deploying website `date '+%Y-%m-%d %H:%M:%S'`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
