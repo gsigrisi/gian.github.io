@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
@@ -9,7 +11,7 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 git add .
 
 # Commit changes.
-msg="Deploying website `date '+%Y-%m-%d %H:%M:%S'`"
+msg=":rocket: Deploying website `date '+%Y-%m-%d %H:%M:%S'`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
