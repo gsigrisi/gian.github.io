@@ -3,7 +3,6 @@
 .DS_Store
 
 public/
-static/
 resources/
 .github/
 archetypes/
