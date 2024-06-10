@@ -6,19 +6,19 @@ paginate = 8
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "Home"
+    name = "home"
     url = "/"
     weight = 1
-#  [[menu.main]]
-#    identifier = "tags"
-#    name = "Tags"
-#    url = "/tags/"
-#    weight = 2
-#  [[menu.main]]
-#    identifier = "about"
-#    name = "About"
-#    url = "/about/"
-#    weight = 3
+  [[menu.main]]
+    identifier = "music"
+    name = "music"
+    url = "/music/"
+    weight = 2
+  [[menu.main]]
+    identifier = "lab"
+    name = "lab"
+    url = "/lab/"
+    weight = 3
 
 [params]
   author = "Gianfranco Sigrisi"
@@ -32,4 +32,8 @@ paginate = 8
     icon = "twitter"
     name = "Twitter"
     url = "https://x.com/pinguozzo"
+  [[params.social]]  
+    icon = "linkedin"
+    name = "linkedIn"  
+    url = "https://linkedin.com/in/gianfrancosigrisi/"
 
