@@ -1,11 +1,8 @@
 baseURL = "https://pinguozzo.com"
 title = "pinguozzo.com"
 theme = "gokarna"
-paginate = 8
-[pagination]
-  disableAliases = false
-  pagerSize = 2
-  path = 'page'
+# paginate = 8
+pagination.pagerSize = 6
 
 [menu]
   [[menu.main]]
