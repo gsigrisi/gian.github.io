@@ -2,6 +2,10 @@ baseURL = "https://pinguozzo.com"
 title = "pinguozzo.com"
 theme = "gokarna"
 paginate = 8
+[pagination]
+  disableAliases = false
+  pagerSize = 2
+  path = 'page'
 
 [menu]
   [[menu.main]]
