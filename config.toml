@@ -1,5 +1,5 @@
-baseURL = "https://pinguozzo.com"
-title = "pinguozzo.com"
+baseURL = "https://gian.sigrisi.ch"
+title = "gian.sigrisi.ch"
 theme = "gokarna"
 # paginate = 8
 pagination.pagerSize = 6
@@ -18,7 +18,7 @@ pagination.pagerSize = 6
   [[params.social]]
     icon = "github"
     name = "Github"
-    url = "https://github.com/pinguozzo"
+    url = "https://github.com/gsigrisi"
   [[params.social]]
     icon = "twitter"
     name = "Twitter"

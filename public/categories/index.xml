@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on pinguozzo.com</title>
-    <link>https://pinguozzo.com/categories/</link>
-    <description>Recent content in Categories on pinguozzo.com</description>
+    <title>Categories on gian.sigrisi.ch</title>
+    <link>https://gian.sigrisi.ch/categories/</link>
+    <description>Recent content in Categories on gian.sigrisi.ch</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://pinguozzo.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gian.sigrisi.ch/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
